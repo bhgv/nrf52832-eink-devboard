@@ -1,0 +1,64 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="spi_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="spi_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="spi_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="spi_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="spi"/>
+  <ProjectSessionItem path="spi;spi_pca10040"/>
+  <ProjectSessionItem path="spi;spi_pca10040;Application"/>
+  <ProjectSessionItem path="spi;spi_pca10040;e-paper"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="spi_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="spi_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="spi_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="spi_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="main.c" selected="0" top="128" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="288" useTextEdit="1" useBinaryEdit="0" left="0" path="User/e-Paper/EPD_2in7.c" selected="1" top="277" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="spi_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa External" debugSearchFileMap="C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\inc\c/DLib_Product_string.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic/nrf_atomic.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\balloc/nrf_balloc.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\delay/nrf_delay.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\log/nrf_log_backend_interface.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src/nrf_log_backend_serial.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src/nrf_log_backend_uart.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src/nrf_log_default_backends.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src/nrf_log_frontend.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src/nrf_log_str_formatter.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\memobj/nrf_memobj.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\ringbuf/nrf_ringbuf.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\timer/app_timer.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\util/app_error.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\util/app_error_weak.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\util/app_util_platform.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\libraries\util/nrf_bitmask.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\components\toolchain\cmsis\include/core_cm4.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\examples\peripheral\my/main.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\examples\peripheral\my\User\GUI/GUI_Paint.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\examples\peripheral\my\User\e-Paper/EPD_2in7.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\external\fprintf/nrf_fprintf.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\external\fprintf/nrf_fprintf_format.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\integration\nrfx/nrfx_glue.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy/nrf_drv_spi.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy/nrf_drv_spi.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy/nrf_drv_uart.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy/nrf_drv_uart.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers/nrfx_common.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src/nrfx_gpiote.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src/nrfx_spim.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src/nrfx_uart.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src/nrfx_uarte.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\prs/nrfx_prs.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\hal/nrf_gpio.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\hal/nrf_gpiote.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\hal/nrf_spim.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\hal/nrf_uart.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\hal/nrf_uarte.h&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk/system_nrf52.c&#xa;&#xa;Z:\home\q56\bld\nRF52832\nRF5_SDK_15.2.0_9412b96\modules\nrfx\soc/nrfx_coredep.h&#xa;" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

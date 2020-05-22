@@ -1,0 +1,5 @@
+#define	z_045_width	8
+#define	z_045_height	50
+static char z_045_bits[] = {
+0x1F, 0x81, 0x1E, 0x12, 0x0,
+};
